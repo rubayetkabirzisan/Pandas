@@ -1,10 +1,7 @@
 ---
 
 ````markdown
-# 🐼 Complete Beginner-Friendly Pandas Tutorial
-
-This repository is a **comprehensive guide to Python Pandas**, covering everything from Series and DataFrames to CSV handling, data cleaning, merging, grouping, and reshaping.  
-It is designed for beginners who want to **learn Pandas step by step**.
+# 🐼 Complete Beginner-Friendly Pandas Tutorial**.
 
 ---
 
@@ -319,37 +316,4 @@ All 304   30
 
 ---
 
-## 🚀 How to Run
-
-1. Install Python 3.8+
-2. Install Pandas:
-
-```bash
-pip install pandas
-```
-
-3. Run any script:
-
-```bash
-python script_name.py
-```
-
----
-
-## 📂 Suggested File Structure
-
-```
-Pandas-Tutorial/
-├── series_demo.py
-├── dataframe_demo.py
-├── csv_demo.py
-├── cleaning_demo.py
-├── merge_concat_demo.py
-├── join_append_demo.py
-├── groupby_demo.py
-├── reshape_demo.py
-└── README.md
-```
-
----
 
